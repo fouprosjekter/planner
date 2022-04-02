@@ -1,0 +1,34 @@
+
+#planner-tasks {
+    width: 100%;
+    height: 100%;
+}
+
+.planner-task-title {
+
+    font-size: 1em;
+    font-weight: 800;
+}
+
+#planner-tasks-splitter {
+
+    height: 100%;
+
+}
+
+#planner-tasktree {
+
+    height: 100%;
+}
+
+#planner-taskview {
+
+    display: inline;
+
+    height: 100%;
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+}
